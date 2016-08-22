@@ -23,6 +23,21 @@ body {
 	width: 60%;
 }
 
+@media only screen and (max-width: 870px) and (min-width: 651px) {
+	.center-focus {
+		margin-left: 10%;
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 650px) {
+	.center-focus {
+		margin-left: 0%;
+		width: 100%;
+	}
+}
+
+
 .container {
 	width: 80%;
 }
